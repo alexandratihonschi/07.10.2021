@@ -39,7 +39,7 @@ else:
     print('suma elementelor de mai sus de diagonala principal: ', sum(e))
     print('elementele de mai jos de diagonala principala: ', f)
     print('suma elementelor de mai jos de diagonala ', sum(f))
-    print('elementele de situate deasupra diagonalei secundare ', b)
+    print('elementele situate deasupra diagonalei secundare ', b)
     print('suma elemenelor de deasupra diagonalei secundare: ', sum(b))
     print('elementele de sub diagonala secundara: ', g)
     print('suma elementelor de sub diagonala secundara: ', sum(g))
